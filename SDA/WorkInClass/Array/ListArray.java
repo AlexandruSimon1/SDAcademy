@@ -1,4 +1,4 @@
-package SDAcademy.SDA.WorkInClass;
+package SDAcademy.SDA.WorkInClass.Array;
 
 public class ListArray {
     public static void main(String[] args) {

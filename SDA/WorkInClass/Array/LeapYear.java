@@ -1,4 +1,4 @@
-package SDAcademy.SDA.WorkInClass;
+package SDAcademy.SDA.WorkInClass.Array;
 
 import java.util.Scanner;
 
